@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+
+# Secrets - never commit these
+.env
+*.pem
+kubeconfig*
+
+# Editor / OS
+.vscode/
+.DS_Store
