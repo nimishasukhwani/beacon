@@ -69,7 +69,7 @@ docs/runbooks        incident runbooks
 
 ## Status
 
-🚧 Phase 1 — repository setup. Nothing runs yet.
+🚧 Phase 1 — Git basics done.
 
 ## Running it locally
 
